@@ -60,3 +60,5 @@ writememo(get_index(), title, contents,date(),time())
 #     f.close()
 #     got_index = int(max(find_index)+1)
 #     return got_index
+
+# 새로운 코멘트
